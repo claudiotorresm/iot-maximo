@@ -9,8 +9,8 @@
 		"port": "80",
 		"user": "wilson",
 		"password": "wilson",
-		"auth_scheme": "maxauth",
-		"authtype": "",
+		"auth_scheme": "/maximo_b1dk",
+		"authtype": "maxauth",
 		"islean": 1
 	}
 }
