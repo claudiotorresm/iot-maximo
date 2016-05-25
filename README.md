@@ -5,7 +5,7 @@
 
 ## Steps:
 
-1. [fork](https://github.com/nerygustavo/iot-maximo/fork) this project
+1. [fork](https://github.com/claudiotorresm/iot-maximo/fork) this project
 2. edit the following files:
 	1. config/production.json
 		1. update `maximo-options` with your Maximo configuration
@@ -20,7 +20,7 @@
 
 ## Steps:
 
-1. [fork](https://github.com/nerygustavo/iot-maximo/fork) this project
+1. [fork](https://github.com/claudiotorresm/iot-maximo/fork) this project
 2. click the "Deploy to Bluemix" button.
  [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=<rep>)
 4. Once the app has been deployed, enter on the app dashboard at Bluemix and click on the button Edit Code.
@@ -37,7 +37,7 @@
 
 ## Steps:
 
-1. [fork](https://github.com/nerygustavo/iot-maximo/fork) this project
+1. [fork](https://github.com/claudiotorresm/iot-maximo/fork) this project
 2. `git clone` your project
 3. update some files:
 	1. config/default.json
