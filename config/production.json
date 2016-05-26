@@ -1,5 +1,5 @@
 {
-	"mqtt-topic": "iot-2/type/wo/id/wodata/evt/+/fmt/json",
+	"mqtt-topic": "iot-2/type/payload/id/payloaddata/evt/+/fmt/json",
 
 	"iotf-service-name": "iotf-maximo",
 	
