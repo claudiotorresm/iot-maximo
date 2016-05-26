@@ -1,5 +1,5 @@
 {
-	"mqtt-topic": "iot-2/type/sensortag/id/tisensortag/evt/+/fmt/json",
+	"mqtt-topic": "iot-2/type/wo/id/wodata/evt/+/fmt/json",
 
 	"iotf-service-name": "iotf-maximo",
 	
@@ -9,7 +9,7 @@
 		"port": "80",
 		"user": "wilson",
 		"password": "wilson",
-		"auth_scheme": "maximo",
+		"auth_scheme": "/maximo",
 		"authtype": "maxauth",
 		"islean": 1
 	}
